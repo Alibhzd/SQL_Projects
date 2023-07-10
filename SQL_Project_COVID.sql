@@ -135,7 +135,7 @@ From #PercentagePopVaxed
 
 ---- NOTE:
 --number of vaccine doses administered per 100 people within a given population. 
--- it’s important to bear in mind that in some territories, vaccination coverage may
+-- itâ€™s important to bear in mind that in some territories, vaccination coverage may
 --include non-residents (such as tourists and foreign workers).For these reasons, 
 --per-capita metrics may sometimes exceed 100%.
 --Total COVID-19 vaccine doses administered per 100 people, May 6, 2023
